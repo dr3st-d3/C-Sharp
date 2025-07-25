@@ -1,0 +1,14 @@
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\bin\Debug\net9.0\Aula_1.exe
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\bin\Debug\net9.0\Aula_1.deps.json
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\bin\Debug\net9.0\Aula_1.runtimeconfig.json
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\bin\Debug\net9.0\Aula_1.dll
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\bin\Debug\net9.0\Aula_1.pdb
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\obj\Debug\net9.0\Aula_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\obj\Debug\net9.0\Aula_1.AssemblyInfoInputs.cache
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\obj\Debug\net9.0\Aula_1.AssemblyInfo.cs
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\obj\Debug\net9.0\Aula_1.csproj.CoreCompileInputs.cache
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\obj\Debug\net9.0\Aula_1.dll
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\obj\Debug\net9.0\refint\Aula_1.dll
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\obj\Debug\net9.0\Aula_1.pdb
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\obj\Debug\net9.0\Aula_1.genruntimeconfig.cache
+C:\Users\d3hx\Documents\GitHub\MeusProjetos\C#\Aula_1\Aula_1\obj\Debug\net9.0\ref\Aula_1.dll
